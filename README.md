@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**socketloren/socketloren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yo!
+Yo, I'm Socket. I'm 16 and I've been coding in Lua for about 3 years now. Mostly Luau, but I also do regular Lua for FiveM.
 
-Here are some ideas to get you started:
+# What I do
+I write scripts and sell them, both for FiveM and Roblox. Been doing this for a while so I know my way around.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- FiveM — scripts, systems, various stuff for servers
+- Roblox — Luau scripts, game systems
+
+# Experience
+
+- 3 years in Luau
+- FiveM scripting
+- Roblox scripting
+
+# Selling my scripts
+On my discord - https://discord.gg/VFdXqBpbE
+
+# Contact
+If you wanna order something or just talk about scripts, hit me up. We'll figure something out.
