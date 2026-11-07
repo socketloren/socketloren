@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Yo!
+# Hello!
 Yo, I'm Socket. I'm 16 and I've been coding in Lua for about 3 years now. Mostly Luau, but I also do regular Lua for FiveM.
 
 # What I do
